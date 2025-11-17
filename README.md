@@ -41,9 +41,6 @@ foto de la estrucura que estoy usando yo y otra foto de como se veria si no estu
 
 ### Funciones
 
-### Arreglos, lo basico
-
-
 ## Actividad 1
 Con el conocimiento generado se pide al usuario realizar 
 
@@ -55,5 +52,31 @@ Con el conocimiento generado se pide al usuario realizar
 
 ### Calculadora Simple
 
+### 
+
 ## Desafio 1
-El de mario normal o uno de convetir putajes en promedio
+El de mario normal
+
+## Arreglos
+
+### Como usarlos
+
+### Por que usarlos
+
+### Ejemplo
+
+
+## Actividad 2
+
+### Ejercicio 1
+
+### Ejercicio 2
+
+### Encripatamiento
+
+### CLA
+
+### ejemplo de encriptamiento de cesar
+
+## Desafio 2
+Encriptamiento de Substitución
